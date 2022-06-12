@@ -1,1 +1,1 @@
-gameApp.init("#canvas")
+ratsAttack.init("#canvas")
